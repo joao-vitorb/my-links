@@ -1,24 +1,23 @@
 # 🌐 Code by João — Links
 
-A simple and elegant personal project made to be used in the **bio of my professional Instagram [@codebyjoao](https://instagram.com/codebyjoao)**.  
-It works as a **custom Linktree**, showcasing my main social links and my most recent project.
+A simple and elegant personal project made to be used in the bio of my professional Instagram [@codebyjoao](https://instagram.com/codebyjoao).  
+It works as a custom Linktree, showcasing my main social links and my most recent project.
 
 ---
 
 ## ✨ About the Project
 
-This website was built using **pure HTML, CSS, and JavaScript**, focused on:
+This website was built using pure HTML, CSS, and JavaScript, focused on:
 
-- 💎 **Clean and modern design**, inspired by minimalist UI layouts  
-- 🎨 **Project carousel** with smooth sliding transitions  
-- 🌙 **Custom background** with an overlay for better contrast  
-- 📱 **Responsive layout**, adapting to all screen sizes
+- 💎 Clean and modern design, inspired by minimalist UI layouts  
+- 🎨 Project carousel with smooth sliding transitions  
+- 🌙 Custom background with an overlay for better contrast  
+- 📱 Responsive layout, adapting to all screen sizes
 
 ---
 
 ## 🧠 Project Structure
 
-```
 📁 /codebyjoao-links
 │
 ├── index.html # Main page structure
@@ -35,22 +34,21 @@ This website was built using **pure HTML, CSS, and JavaScript**, focused on:
 ├── tiktok.svg
 ├── email.svg
 └── whatsapp.svg
-```
 
 ---
 
 ## 🚀 Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6)**
-- **Responsive design (Flexbox + Grid)**
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Responsive design (Flexbox + Grid)
 
 ---
 
 ## 🧑‍💻 Author
 
-**João Vitor Borges**  
+João Vitor Borges  
 Front-end Developer  
 📸 Instagram: [@codebyjoao](https://instagram.com/codebyjoao)
 
