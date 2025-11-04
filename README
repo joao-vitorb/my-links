@@ -1,0 +1,62 @@
+# 🌐 Code by João — Links
+
+A simple and elegant personal project made to be used in the **bio of my professional Instagram [@codebyjoao](https://instagram.com/codebyjoao)**.  
+It works as a **custom Linktree**, showcasing my main social links and my most recent project.
+
+---
+
+## ✨ About the Project
+
+This website was built using **pure HTML, CSS, and JavaScript**, focused on:
+
+- 💎 **Clean and modern design**, inspired by minimalist UI layouts  
+- 🎨 **Project carousel** with smooth sliding transitions  
+- 🌙 **Custom background** with an overlay for better contrast  
+- 📱 **Responsive layout**, adapting to all screen sizes
+
+---
+
+## 🧠 Project Structure
+
+```
+📁 /codebyjoao-links
+│
+├── index.html # Main page structure
+├── style.css # Styling and layout
+├── script.js # Carousel logic and link handling
+└── assets/ # Images and icons
+├── bg-linktree.png
+├── profile-pic.png
+├── arrow-left.svg
+├── arrow-right.svg
+├── github.svg
+├── linkedin.svg
+├── instagram.svg
+├── tiktok.svg
+├── email.svg
+└── whatsapp.svg
+```
+
+---
+
+## 🚀 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+- **Responsive design (Flexbox + Grid)**
+
+---
+
+## 🧑‍💻 Author
+
+**João Vitor Borges**  
+Front-end Developer  
+📸 Instagram: [@codebyjoao](https://instagram.com/codebyjoao)
+
+---
+
+## 🪄 License
+
+This project was created for personal and educational purposes.  
+Feel free to get inspired and build your own custom Linktree 🚀

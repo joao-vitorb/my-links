@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Code by João — Links</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="overlay"></div>
+
+  <main class="container">
+
+    <section class="profile-card">
+      <img src="assets/profile-pic.png" alt="Foto de João" class="profile-pic" />
+      <div class="profile-info">
+        <h1>Prazer, eu sou o João 👋</h1>
+        <p>20 anos</p>
+        <p>Desenvolvedor Front-end</p>
+      </div>
+    </section>
+
+    <section class="project-card">
+      <h2>Meus projetos mais recentes</h2>
+      <p class="subtitle">Em desenvolvimento...</p>
+
+      <div class="project-carousel">
+        <button class="carousel-btn prev" aria-label="Projeto anterior">
+          <img src="assets/arrow-left.svg" alt="Anterior" />
+        </button>
+
+        <div class="project-image">
+          <div class="project-slider">
+            <img src="assets/projeto-1.png" alt="Projeto 1" />
+            <img src="assets/projeto-2.png" alt="Projeto 2" />
+            <img src="assets/projeto-3.png" alt="Projeto 3" />
+          </div>
+        </div>
+
+        <button class="carousel-btn next" aria-label="Próximo projeto">
+          <img src="assets/arrow-right.svg" alt="Próximo" />
+        </button>
+      </div>
+
+      <h3>Trimly</h3>
+      <p class="description">
+        Um sistema de agendamento de serviços entre os clientes e a barbearia, conta com painel do administrador
+        para visualização dos agendamentos.
+      </p>
+    </section>
+
+    <section class="contact-card">
+      <h2>Entre em contato</h2>
+      <p>Me acompanhe nas redes sociais ou me envie uma mensagem!</p>
+      <div class="links">
+        <button data-link="https://github.com/codebyjoao">
+          <img src="assets/github.svg" alt="GitHub" />
+          Github
+        </button>
+        <button data-link="https://linkedin.com/in/codebyjoao">
+          <img src="assets/linkedin.svg" alt="LinkedIn" />
+          Linkedin
+        </button>
+        <button data-link="https://instagram.com/codebyjoao">
+          <img src="assets/instagram.svg" alt="Instagram" />
+          Instagram
+        </button>
+        <button data-link="https://tiktok.com/@codebyjoao">
+          <img src="assets/tiktok.svg" alt="Tiktok" />
+          Tiktok
+        </button>
+        <button data-link="mailto:codebyjoao@gmail.com">
+          <img src="assets/email.svg" alt="Email" />
+          Email
+        </button>
+        <button data-link="https://wa.me/5534999999999">
+          <img src="assets/whatsapp.svg" alt="Whatsapp" />
+          Whatsapp
+        </button>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
